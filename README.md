@@ -7,7 +7,7 @@ The Exam Portal is a web application that allows users to take MCQ (Multiple Cho
 The Exam Portal is built using the following tech stacks:
 
 - **Frontend**: Angular
-- **Backend**: Spring Boot
+- **Backend**: Spring Boot, Spring Security
 - **Database**: MySQL
 
 ## Features
